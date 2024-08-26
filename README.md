@@ -1,11 +1,5 @@
 # HitWicketAssignment
 
-Here's the README file text for your project with clear separation between client and server code:
-
----
-
-# Project Title
-
 ## Overview
 This repository contains the complete codebase for the project, with clear separation between the client and server components. Each component has its own directory with its respective setup and run instructions.
 
