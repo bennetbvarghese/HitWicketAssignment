@@ -69,7 +69,3 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details on h
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
---- 
-
-This README structure provides clear guidance for setting up and running both the client and server components of the project.
